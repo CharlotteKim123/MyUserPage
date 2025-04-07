@@ -14,3 +14,4 @@ cd <directory>
 git commit
 ```
 My [GitHub Profile Page](https://github.com/CharlotteKim123).
+[Picture of Me](IMG_2480 (1).jpg)
