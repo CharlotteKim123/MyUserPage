@@ -1,6 +1,6 @@
 # **Charlotte Kim's User Page**
 ## *Links*
-[Who Am I?](#who-am-i)
+[Who Am I?](#who-am-i)  
 [Me as a Programmer](#me-as-a-programmer)
 ## *Who am I*
 ### My name is Charlotte Kim. I am a third year Computer Science and Engineering major at UC San Diego's Jacobs School of Engineering. I have been coding since elementary school for robotics. I am a hard-worker, self-starter, and life-long learner.
@@ -13,5 +13,5 @@ vim <filename>
 cd <directory>
 git commit
 ```
-My [GitHub Profile Page](https://github.com/CharlotteKim123).
-[Picture of Me](IMG_2480 (1).jpg)
+My [GitHub Profile Page](https://github.com/CharlotteKim123).  
+[Picture of Me](/https://github.com/CharlotteKim123/MyUserPage/blob/main/IMG_2480%20(1).jpg)
