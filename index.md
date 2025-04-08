@@ -2,8 +2,8 @@
 ## *Links*
 [Who Am I?](#who-am-i)  
 [Me as a Programmer](#me-as-a-programmer)  
-[Languages](#languages-i-am-comfortable-with)
-[Goals](#my-goals)
+[Languages](#languages-i-am-comfortable-with)  
+[Goals](#my-goals)  
 [Progress](#my-college-progress)
 
 ## *Who am I*
