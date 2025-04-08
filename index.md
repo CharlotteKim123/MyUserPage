@@ -26,7 +26,7 @@ git commit
 3. Be content with my life.
   
 My [GitHub Profile Page](https://github.com/CharlotteKim123).  
-[Picture of Me](/https://github.com/CharlotteKim123/MyUserPage/blob/main/IMG_2480%20(1).jpg)
+[Picture of Me](https://github.com/CharlotteKim123/MyUserPage/blob/main/IMG_2480%20(1).jpg)
 
 ## My college progress
 
