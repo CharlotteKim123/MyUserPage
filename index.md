@@ -3,6 +3,9 @@
 [Who Am I?](#who-am-i)  
 [Me as a Programmer](#me-as-a-programmer)  
 [Languages](#languages-i-am-comfortable-with)
+[Goals](#my-goals)
+[Progress](#my-college-progress)
+
 ## *Who am I*
 ### My name is Charlotte Kim. I am a third year Computer Science and Engineering major at UC San Diego's Jacobs School of Engineering. I have been coding since elementary school for robotics. I am a hard-worker, self-starter, and life-long learner.
 ## *Me as a Programmer*
@@ -28,7 +31,7 @@ git commit
 My [GitHub Profile Page](https://github.com/CharlotteKim123).  
 [Picture of Me](https://github.com/CharlotteKim123/MyUserPage/blob/main/IMG_2480%20(1).jpg)
 
-## My college progress
+## My College Progress
 
 - [ ] Graduate 🎉
 - [ ] Get an internship
